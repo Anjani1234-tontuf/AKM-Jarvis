@@ -24,7 +24,7 @@ This script is written in Python language
 
 Requirements to run this script - 
 
-JARVIS Requirements - click here
+JARVIS Requirements - https://tontufweblearners.blogspot.com/2020/07/jarvis-requirement-to-intall.html
 
 Other features require the following requirements - 
 
@@ -34,3 +34,8 @@ QR Scanner - pyzbar, numby
 
 Youtube player - bs4, beautifulsoup
 
+On Tontuf - 
+https://www.tontuf.in/2020/07/how-to-add-youtube-video-player-in.html
+https://www.tontuf.in/2020/07/code-of-your-own-ai-assistant-in-python.html
+
+This source code is brought to you by AKM Tontuf - https://www.tontuf.in
